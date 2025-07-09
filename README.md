@@ -9,7 +9,7 @@ This project is a **Fake News Detection System** built using **Python** and **Ma
 - **Prediction**: The system predicts whether the news article is **real** or **fake**.
 - **Accuracy**: The accuracy of the model is displayed to show how well it performs on the test data.
   
-## Technologies Used
+## Technologies Used:
 
 - **Python**: Programming language used for building the system.
 - **pandas**: Used for data manipulation and analysis.
