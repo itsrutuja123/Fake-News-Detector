@@ -3,7 +3,7 @@
 
 This project is a **Fake News Detection System** built using **Python** and **Machine Learning**. It predicts whether a given news article is real or fake based on its content. The model is trained on a dataset containing labeled news articles, and uses Natural Language Processing (NLP) and machine learning techniques to make predictions.
 
-## Features
+## Features:
 
 - **News Input**: The system takes a news article as input from the user.
 - **Prediction**: The system predicts whether the news article is **real** or **fake**.
